@@ -43,6 +43,6 @@ If you want to make a suggestion. Please make a new issue and start the title of
 
 ### Check these cool guys out
 
-- <a href="github.com/f1shy-dev">f1shy-dev</a> (made the apple intelligence tweak. link is <a href="https://gist.github.com/f1shy-dev/23b4a78dc283edd30ae2b2e6429129b5">here</a>)
+- <a href="https://www.github.com/f1shy-dev">f1shy-dev</a> (made the apple intelligence tweak. link is <a href="https://gist.github.com/f1shy-dev/23b4a78dc283edd30ae2b2e6429129b5">here</a>)
 
 
