@@ -20,16 +20,15 @@ It is a file type by apple to make storing information more easier and safer.
 
 >Now what is this file for and what does it contain?
 
-This file contains important system Information which is needed for this exploit.
+This file contains important system Information vis keys, Keys are similar to the windows registry but are VERY important to the device because its how iPhone stores data. 
 
 Now that you know some information. Lets go over how this expliot works
 
 > [!IMPORTANT]
-> There is a chance your device might bootloop, I am not responsible if that occours.
+> There is a chance your device might bootloop, I am not responsible if that occours. 
 > Continue at your own risk.
 
-
-This will restore your phone into a state where no system files are being used. This will allow us to replace the file with modified keys added into the plist file and put it back in the phone. Your phone should restart after this is complete.
+This will restore your phone into a fallback state where no system files are being used. This will allow us to replace the file with modified keys added into the plist file and put it back in the phone. Your phone should restart after this is complete.
 
 Now your phone will launch with the modifed keys added into your phone. Don't worry as you can restore the tweaks if you dont want them anymore
 
@@ -39,7 +38,7 @@ If you found a bug, please report it to the issues tab in this github repo and w
 
 ### I have a suggestion
 
-If you want to make a suggestion. Please make a new issue and start the title of the issue with "Suggestion: " and then the resdt of your title
+If you want to make a suggestion. Please make a new issue and start the title of the issue with "Suggestion: " and then the rest of your title
 
 ### Check these cool guys out
 
