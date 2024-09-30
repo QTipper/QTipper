@@ -44,4 +44,17 @@ If you want to make a suggestion. Please make a new issue and start the title of
 
 - <a href="https://www.github.com/f1shy-dev">f1shy-dev</a> (made the apple intelligence tweak. link is <a href="https://gist.github.com/f1shy-dev/23b4a78dc283edd30ae2b2e6429129b5">here</a>)
 
+### Is this project open-source
+
+Unfortuntly but for a good reason, This project is a closed source app, however we still can tell you what we used to make it;
+
+- libimobiledevice3
+- Python
+- Visual Studio Code
+- PyQt
+- fingers
+- Mac
+- Nugget 3.0 Source code
+
+The reason we can't give out the source code is because you're going to throw up because of the code structure (idek what half the code is doing)
 
