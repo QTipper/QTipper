@@ -46,7 +46,7 @@ If you want to make a suggestion. Please make a new issue and start the title of
 
 ### Is this project open-source
 
-Unfortuntly but for a good reason, This project is a closed source app, however we still can tell you what we used to make it;
+Unfortunately but for a good reason, This project is a closed source, however we still can tell you what we used to make it;
 
 - libimobiledevice3
 - Python
